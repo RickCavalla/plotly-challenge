@@ -1,2 +1,4 @@
 # plotly-challenge
-# This is a placeholder
+
+# Local dashboard complete
+# No heroku (yet!)
