@@ -1,4 +1,4 @@
 # plotly-challenge
 
 # Local dashboard complete
-# No heroku (yet!)
+# Heroku deployed at https://plotly-heroku-rickc.herokuapp.com/
